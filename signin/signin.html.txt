@@ -14,6 +14,9 @@
 </footer>
 
 <script type="text/javascript" src="scripts/app.js"></script>
+<script type="text/javascript">
+     console.log("This is sign in feature");
+</script>
     
 </body>
 </html> 
