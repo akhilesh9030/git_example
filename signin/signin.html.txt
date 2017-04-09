@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Signin</title>
+	<link rel = "stylesheet" type="text/css" href="styles/style.css">
+</head>
+<body>
+<header>App</header>
+<section>
+   <p>Please Sign in</p>
+</section>
+<footer>
+    @2017 Footer
+</footer>
+
+<script type="text/javascript" src="scripts/app.js"></script>
+    
+</body>
+</html> 
